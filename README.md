@@ -8,7 +8,10 @@
 
 
 
-![Celia Regina GitHub stats](https://github-readme-stats.vercel.app/api?username=celiareginar&show_icons=true&theme=dracula)
+![Celia Regina GitHub stats](https://github-readme-stats.vercel.app/api?username=celiareginar&show_icons=true&theme=dracula)<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celiareginar&layout=compact)](https://github.com/celiareginar/github-readme-stats)
 
 
 ## Tecnologias que tenho estudado
