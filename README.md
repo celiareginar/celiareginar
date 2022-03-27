@@ -24,3 +24,5 @@
     <img aling='center' alt='soluções em nuven' src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
 
 </div><br/>
+
+ ![Snake animation](https://github.com/celiareginar/celiareginar/blob/output/github-contribution-grid-snake.svg)
